@@ -1,0 +1,13 @@
+{"logTime": "0911/051510", "correlationVector":"YuBX5RmgxFc/G9s3waFRiG.0","action":"FeedSettingFetch_homeCloud", "result":"0", "context":{}}
+{"logTime": "0911/051511", "correlationVector":"jvm+krFPHl072lGficmKU2.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"48F630A6-CB1B-4CC7-86AF-0F6627234B58", "server":"AM3PEPF0000097B"}}
+{"logTime": "0911/051511", "correlationVector":"n4OrmN6sWtK0y9TSW30GsF.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"48F630A6-CB1B-4CC7-86AF-0F6627234B58", "server":"AM3PEPF0000097B"}}
+{"logTime": "0911/051511", "correlationVector":"jvm+krFPHl072lGficmKU2","action":"Initial GetUpdates", "result":""}
+{"logTime": "0911/051511", "correlationVector":"jvm+krFPHl072lGficmKU2.2","action":"GetUpdates Response", "result":"SERVER_MORE_TO_DOWNLOAD"}
+{"logTime": "0911/051511", "correlationVector":"n4OrmN6sWtK0y9TSW30GsF","action":"Initial GetUpdates", "result":""}
+{"logTime": "0911/051511", "correlationVector":"n4OrmN6sWtK0y9TSW30GsF.2","action":"GetUpdates Response", "result":"SYNCER_OK"}
+{"logTime": "0911/051522", "correlationVector":"Q0T0LwL7+Jrfko1wuszRpv","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"", "server":""}}
+{"logTime": "0911/051523", "correlationVector":"nL9SiUryvA7omee9gi6n9N","action":"Initial GetUpdates", "result":""}
+{"logTime": "0911/051523", "correlationVector":"nL9SiUryvA7omee9gi6n9N.1","action":"SyncServerConnectionManagerRequest", "result":"SYNC_SERVER_OK", "context":{"environment":"48F630A6-CB1B-4CC7-86AF-0F6627234B58", "server":"AM3PEPF0000098C"}}
+{"logTime": "0911/051524", "correlationVector":"nL9SiUryvA7omee9gi6n9N.2","action":"GetUpdates Response", "result":"SERVER_MORE_TO_DOWNLOAD"}
+{"logTime": "0911/051524", "correlationVector":"UG648NxNQyMVofVHUSbpc+","action":"Initial GetUpdates", "result":""}
+{"logTime": "0911/051524", "correlationVector":"UG648NxNQyMVofVHUSbpc+","action":"SyncServerConnectionManagerRequest", "result":"CONNECTION_UNAVAILABLE", "context":{"error_type":"net_error_code", "error_value":"-3"}}

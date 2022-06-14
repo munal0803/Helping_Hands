@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "240722229453",
+    "project_id": "helpping-dfa9c",
+    "storage_bucket": "helpping-dfa9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240722229453:android:d2d91c4712574843439184",
+        "android_client_info": {
+          "package_name": "com.example.todo_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240722229453-pgqf6aafbm808d4v0nvn3t3439k0uo8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRuyRdxV5xasM3G1NjIrSeAWdDOEeEpxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240722229453-pgqf6aafbm808d4v0nvn3t3439k0uo8k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
